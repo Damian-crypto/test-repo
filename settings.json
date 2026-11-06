@@ -1,3 +1,4 @@
 {
-    "ProjectName": "DevProject"
+    "ProjectName": "DevProject",
+    "Env": "Dev"
 }
